@@ -116,3 +116,4 @@ Note: modifications, changes, or changes to this code can be accepted, however, 
 2. https://raw.githubusercontent.com/indoxploit-coders/indoxploit-shell/master/shell-v3.php
 3. https://raw.githubusercontent.com/linuxsec/indoxploit-shell/master/shell-v3.php
 
+4. https://gist.github.com/p4kl0nc4t/f237f79d3f7a9a79a16173e89f064212
